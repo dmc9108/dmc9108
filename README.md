@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with Rstudio
 - 💬 Ask me about scientific research methods, education and Veterinary Medicine
 - 📫 How to reach me: danielmancillacastro@hotmail.com
-- 😄 Pronouns: He/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am very inquisitive and self-taught
+- https://orcid.org/0000-0003-3781-7586
 -->
